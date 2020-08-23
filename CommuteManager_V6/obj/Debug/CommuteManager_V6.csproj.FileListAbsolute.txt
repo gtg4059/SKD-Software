@@ -1,0 +1,1036 @@
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\bin\Debug\AlienRFID2.dll
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\NSCL_JungCH\Desktop\CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\bin\Debug\AlienRFID2.dll
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\(180201)CommuteManager_V6\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V6(180201)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\NSCL_JungCH\Desktop\RFID 과제\통근 관리 프로그램\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190108\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190114\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190115\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190116\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190117\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190121\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\rncl\Desktop\안전관리시스템\190201\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190201_수정본\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190201_DGV\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190207\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190211_king\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190212\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190214\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190224_UI\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190224_UI_Reer\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190225\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\rncl\Desktop\안전관리시스템\190225_Event\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(180416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190325)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190410\CommuteManager_V8(190409)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190411\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190415\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190416\CommuteManager_V8(190410)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190416)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190417)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\190417 (2)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190418 (0)\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\190418 (0)\CommuteManager_V8(190417)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190423\CommuteManager_V8(190422)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190423)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\qkrtj\OneDrive\문서\SKD과제함\CommuteManager_V8(190424)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\CommuteManager_V8(190427)\CommuteManager_V8(190427)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\qkrtj\Desktop\CommuteManager_V8(190428)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190429\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190501\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190502\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190503\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190508\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190509\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190513\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojResolveAssemblyReference.cache
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.Cache
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+D:\Project\안전관리시스템\Software\190514\CommuteManager_V8(190429)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\Desktop\CommuteManager_V8(190514)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\x86\e_sqlite3.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\x64\e_sqlite3.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190530)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\x86\e_sqlite3.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\x64\e_sqlite3.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Client.SQLiteStore.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CoreCompileInputs.cache
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\S_M_Com\OneDrive\문서\SKD과제함\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csprojAssemblyReference.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.ResolveComReference.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.exe
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\x86\e_sqlite3.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\x64\e_sqlite3.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe.config
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\CommuteManager_V6.exe
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\CommuteManager_V6.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Data.SqlClient.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\AlienRFID2.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Connect_Setting.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.DateDetail.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Detail.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.CommuteManager.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.People_manager.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.Properties.Resources.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.TagMonitor.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.GenerateResource.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\obj\Debug\CommuteManager_V6.csproj.CopyComplete
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Server.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Web.Http.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.Azure.Mobile.Server.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Web.Http.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\de\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\es\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\fr\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\it\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\ja\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\ko\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\ru\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\CommuteManager_V8(190610)\CommuteManager_V6\bin\Debug\System.Net.Http.Primitives.xml
